@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @reynanibita
 
 - 👀 I’m interested in ...
-     -Graphic Design
-     -Web Development
-     -Video and Photo Editing
+- Graphic Design
+- Web Development
+- Video and Photo Editing
      
 - 🌱 I’m currently learning ...
-     -Python
-     -Django
-     -Database
+- Python
+- Django
+- Database
      
 - 💞️ I’m looking to collaborate on ...
-     -Creating Websites
+- Creating Websites
      
 - 📫 How to reach me ...
 
